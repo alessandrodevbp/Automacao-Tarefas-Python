@@ -1,0 +1,1 @@
+Desenvolvi um projeto em Python voltado à automação de tarefas, criando um sistema simples de cadastro de produtos para simular cenários reais. A iniciativa teve como objetivo praticar lógica de programação, manipulação de dados e introdução à criação de bots, demonstrando na prática como a automação pode otimizar processos repetitivos e aumentar a eficiência.
